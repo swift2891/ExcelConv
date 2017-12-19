@@ -1,7 +1,8 @@
 import os, shutil
 from flask import Flask, render_template, request, send_from_directory, flash
-from werkzeug import secure_filename
-from app import To_xlsx
+from werkzeug.utils import secure_filename
+
+from convert import To_xlsx
 
 UPLOAD_FOLDER = 'uploads'
 ALLOWED_EXTENSIONS = set(['xls'])
