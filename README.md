@@ -5,13 +5,13 @@ swift2891.pythonanywhere.com
 ## About
 A Web app to convert .xls file to .xlsx file. A simple and instant solution. 
 
-## Try the App
-### Web Browser
+## 1. Try the App
+### 1.1 Web Browser
 Go to the above mentioned URL
 * Upload the .xls file
 * Click Convert button and save the new converted file.
 
-### PyCharm
+### 1.2 PyCharm
 * Clone this Project
 * Load it in PyCharm IDE
 * Install all needed libraries mentioned in requirements.txt 
