@@ -2,10 +2,10 @@
 The WebApp is hosted at 
 swift2891.pythonanywhere.com
 
-##About
+## About
 A Web app to convert .xls file to .xlsx file. A simple and instant solution. 
 
-##Try the App
+## Try the App
 ### Web Browser
 Go to the above mentioned URL
 * Upload the .xls file
@@ -19,4 +19,4 @@ Go to the above mentioned URL
 * Go to the local host server to access app.
 
 ### Note
-(Will soon be improved in future for ease of access and full deployed app)
+The app has only one feature. I will be working on this to add more features.
